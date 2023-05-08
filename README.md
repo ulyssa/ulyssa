@@ -5,7 +5,3 @@
 
 I like making and contributing to open source software, especially in Rust, C,
 and JavaScript.
-
-I am currently looking for software engineering jobs in Rust or developing
-systems software. If you're hiring, please reach out to me at
-`hello[at]ulyssa[dot]email`!
